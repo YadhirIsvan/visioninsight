@@ -29,5 +29,5 @@ UCI Machine Learning & Collaborator. (n.d.). Pima Indians Diabetes Database. Kag
 
 ## Author
 José Habacuc Soto Hernández - SWE Student
-    - GitHub: https://github.com/habacucsoto
-    - Portfolio: https://habacuc.dev
+- GitHub: https://github.com/habacucsoto
+- Portfolio: https://habacuc.dev
